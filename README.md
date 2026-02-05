@@ -2,7 +2,8 @@
 <!-- Headers -->
 <h1 align="center">Hey, I'm Nader Mamdouh <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
-<h3 align="center">I have 1 year of experience in DevOps and Cloud Engineering. I bring a strong foundation to the table and I am passionate about contributing to the tech community </h3>
+<h3 align="center">DevOps & Cloud Engineer with 1+ year of experience working across Linux systems, CI/CD pipelines, containerization, and cloud platforms. I focus on automation, reliability, and building scalable infrastructure that helps teams move faster and ship with confidence. I’m passionate about learning, sharing knowledge, and contributing to meaningful technical projects.
+</h3>
 <!-- Cover Image -->
 <p align="center">
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
